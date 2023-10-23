@@ -1,20 +1,5 @@
 <img width="637" alt="image" src="https://github.com/Zapper-fi/chainchat/assets/6855274/1fd3e189-f59c-4575-8fb1-3b4e1295936c">
 
-# Chainchat: Onchain Group Chats 
-Blockchains aren't just about shifting economic power, but also about reshaping human coordination. Throughout history, shared incentives have driven human collaboration. Blockchains, in this regard, stand as a novel platform, allowing the design of positive-sum games that bolster human connection.
-
-# The Social Network Dilemma
-Early in their life cycle, most social networks exude a strong sense of community. However, as they expand, these networks begin to fragment. The primary culprit? Incentives. Rather than rewarding genuine connection, social networks increasingly prioritize reach and engagement. 
-
-This optimization quickly morphs into a rat race for popularity. The social dynamics of high school, where one strives for popularity, often at the expense of their authentic self, re-emerge on a grander scale. As these platforms surpass even the restrictive confines of high school, they further damage our sense of self. 
-
-Suddenly, you're in a feedback loop that continually reinforces a manufactured identity. There’s nobody from high school to give you a reality check. Over time, the very fabric of society erodes, as the connecting nodes only connect us to the extent of our fakeness. We find ourselves ensnared in a negative-sum game. 
-
-# The Escape
-The disillusionment with modern social networks grows year over year. People are increasingly searching for genuine connection, which the incumbents no longer provide. The future lies in social networks that:
-- Promote positive-sum games through shared incentives.
-- Prioritize the quality of connecting nodes.
-
 # Overview
 Introducing Chainchat: an onchain solution for group discussions. Here, group chats are termed "channels." To join a channel, one must buy a share in the channel. To leave a channel you must sell all your shares in that channel. You can buy and sell multiple shares. You only need one share to be a member of the channel. The pricing mechanism for shares follows a bonding curve.
 

@@ -1,7 +1,7 @@
 <img width="637" alt="image" src="https://github.com/Zapper-fi/chainchat/assets/6855274/1fd3e189-f59c-4575-8fb1-3b4e1295936c">
 
 # Overview
-Introducing Chainchat: an onchain solution for group discussions. Here, group chats are termed "channels." To join a channel, one must buy a share in the channel. To leave a channel you must sell all your shares in that channel. You can buy and sell multiple shares. You only need one share to be a member of the channel. The pricing mechanism for shares follows a bonding curve.
+Introducing Chainchat: an onchain solution for group chats. Here, group chats are termed "channels." To join a channel, one must buy a share in the channel. To leave a channel you must sell all your shares in that channel. You can buy and sell multiple shares. You only need one share to be a member of the channel. The pricing mechanism for shares follows a bonding curve.
 
 Each transaction incurs a 5% fee, which is added to the channel's fee pool. These fees can be proportionally withdrawn by shareholders based on their stakes at any time.
 

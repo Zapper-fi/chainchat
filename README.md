@@ -1,3 +1,6 @@
+# Chainchat - Onchain Group Chats
+Blockchains aren't just about shifting economic power, but also about reshaping human coordination. Throughout history, shared incentives have driven human collaboration. Blockchains, in this regard, stand as a novel platform, allowing the design of positive-sum games that bolster human connection.
+
 # Overview
 Introducing Chainchat: an onchain solution for group chats. Here, group chats are termed "channels." To join a channel, one must buy a share in the channel. To leave a channel you must sell all your shares in that channel. You can buy and sell multiple shares. You only need one share to be a member of the channel. The pricing mechanism for shares follows a bonding curve.
 
